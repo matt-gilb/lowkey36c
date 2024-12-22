@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kleeb_display")(type "KiCad")(uri "${KIPRJMOD}/my_components/kleeb/display.kicad_sym")(options "")(descr ""))
+  (lib (name "kleeb_ic")(type "KiCad")(uri "${KIPRJMOD}/my_components/kleeb/ic.kicad_sym")(options "")(descr ""))
+  (lib (name "kleeb_mcu")(type "KiCad")(uri "${KIPRJMOD}/my_components/kleeb/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "kleeb_misc")(type "KiCad")(uri "${KIPRJMOD}/my_components/kleeb/misc.kicad_sym")(options "")(descr ""))
+  (lib (name "kleeb_sensor")(type "KiCad")(uri "${KIPRJMOD}/my_components/kleeb/sensor.kicad_sym")(options "")(descr ""))
+  (lib (name "kleeb_switch")(type "KiCad")(uri "${KIPRJMOD}/my_components/kleeb/switch.kicad_sym")(options "")(descr ""))
+  (lib (name "ScottoKeebs")(type "KiCad")(uri "${KIPRJMOD}/my_components/ScottoKicad/symbols/ScottoKeebs.kicad_sym")(options "")(descr ""))
+  (lib (name "mg_pwr_sw")(type "KiCad")(uri "${KIPRJMOD}/my_components/SSSS811101/SSSS811101.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeed_Studio_XIAO_Series")(type "KiCad")(uri "${KIPRJMOD}/my_components/OPL_Kicad_Library/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+)

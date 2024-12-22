@@ -1,0 +1,6 @@
+[submodule "pcbs/my_components/kleeb"]
+	path = pcbs/my_components/kleeb
+	url = https://github.com/crides/kleeb.git
+[submodule "pcbs/my_components/OPL_Kicad_Library"]
+	path = pcbs/my_components/OPL_Kicad_Library
+	url = https://github.com/Seeed-Studio/OPL_Kicad_Library.git
